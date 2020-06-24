@@ -2,7 +2,7 @@
 Java computer application game to slide tiles into the correct order
 
 ## How to launch
-To launch the application, execute the Launch.java file
+To launch the application, execute the Launcher.java file
 
 ## How to play
 ### Objective
