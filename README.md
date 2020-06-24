@@ -6,7 +6,7 @@ To launch the application, execute the Launch.java file
 
 ## How to play
 ### Objective
-Flip the tiles in the least amount of steps to result in the ![final configuration](endGame.png)
+Flip the tiles in the least amount of steps to result in the final configuration ![final configuration](endGame.png)
 
 ### Rules
 The eight tiles only depict the numbers 1, 2, 3, or 4. 
